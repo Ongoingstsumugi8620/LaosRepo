@@ -1,0 +1,6 @@
+{
+    'defaultStartDate':'2020-01-02',
+    'defaultEndDate':'2022-12-30',
+    'default_lookback_period': 20,
+    'default_decline_days':5
+}
